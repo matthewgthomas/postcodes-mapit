@@ -37,6 +37,7 @@ OpenStreetMap has administrative boundaries for all countries in
 the world, which you can conveniently get from Global MapIt:
 
 UK: http://global.mapit.mysociety.org/area/958873.html
+
 Isle of Man: http://global.mapit.mysociety.org/area/363367.html
 
 Use the KML link to download KML versions of the boundaries of
