@@ -29,7 +29,7 @@ than getting it from http://geoportal.statistics.gov.uk/). This
 data is released under the
 [Open Government License v3](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
-Unpack this under `data/ONSPD_MAY_2017`
+Unpack this under `data/ONSPD_NOV_2017`
 
 ### Download the OSM border for the UK and Isle of Man
 
