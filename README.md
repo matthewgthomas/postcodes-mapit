@@ -31,15 +31,16 @@ data is released under the
 
 Unpack this under `data/ONSPD_MAY_2017`
 
-### Download the OSM border for the UK
+### Download the OSM border for the UK and Isle of Man
 
 OpenStreetMap has administrative boundaries for all countries in
 the world, which you can conveniently get from Global MapIt:
 
-http://global.mapit.mysociety.org/area/958873.html
+UK: http://global.mapit.mysociety.org/area/958873.html
+Isle of Man: http://global.mapit.mysociety.org/area/363367.html
 
-Use the KML link to download a KML version of the boundary of
-the UK to: `data/UK.kml`
+Use the KML link to download KML versions of the boundaries of
+the UK (place in`data/UK.kml`) and Isle of Man (place in `data/IoM.kml`).
 
 ### Make the fine-grained postcode unit boundaries
 
